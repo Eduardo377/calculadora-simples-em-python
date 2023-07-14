@@ -1,4 +1,3 @@
-```
 # Calculadora Simples em Python
 
 Este é um programa em Python que implementa uma calculadora simples. A calculadora permite realizar operações de soma, subtração, multiplicação e divisão de dois números.
