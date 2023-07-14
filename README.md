@@ -8,7 +8,19 @@ Este é um programa em Python que implementa uma calculadora simples. A calculad
 
 ## Como usar
 
-1. Clone o repositório ou faça o download dos arquivos.
+1. Clone o repositório:
+
+   ```bash
+   git clone git@github.com:Eduardo377/calculadora-simples-em-python.git
+   ```
+
+1.1.    ou faça o download dos arquivos:
+
+   ```bash
+
+    https://github.com/Eduardo377/calculadora-simples-em-python/archive/refs/heads/main.zip
+
+   ```
 
 2. Abra um terminal ou prompt de comando e navegue até o diretório onde os arquivos estão localizados.
 
@@ -59,21 +71,9 @@ Contribuições são bem-vindas! Se você encontrar algum problema no código, t
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
+
+## Considerações finais
 
 Esse README básico contém informações sobre o programa, requisitos, instruções de uso, exemplos, informações para contribuição e a licença. Você pode personalizá-lo de acordo com as necessidades do seu projeto.
 
 Clique em 👉 [Google Colabory](https://colab.research.google.com/drive/1TK3dLGOldumve0goz8qJMqNdE003_knb?usp=sharing) 👈 para acessar o exercutavel online.
-
-
-<table>
-  <tr>
-    <th>SCREENSHOT RESPOSTA</th>
-  </tr>
-  <tr>
-    <td>
-        <p style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 10px;">
-            <img src="./assets/image.png" width="800px">
-        </p>
-    </td>
-  </tr>
